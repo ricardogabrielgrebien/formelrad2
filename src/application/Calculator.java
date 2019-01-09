@@ -90,4 +90,10 @@ public class Calculator {
 		System.out.println("p/(i*i)");
 		return p/(i*i);
 	}
+	
+	public double rAusUundI (double u, double i) {
+		System.out.println("u/i");
+		return u/i;
+	}
+	
 }
