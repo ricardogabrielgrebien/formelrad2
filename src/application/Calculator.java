@@ -80,4 +80,9 @@ public class Calculator {
 		System.out.println("u/r");
 		return u/r;
 	}
+	
+	public double rAusPundU (double p, double u) {
+		System.out.println("(u*u)/p");
+		return (u*u)/p;
+	}
 }
