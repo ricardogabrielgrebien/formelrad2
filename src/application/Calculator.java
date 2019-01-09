@@ -61,5 +61,9 @@ public class Calculator {
 		System.out.println("(u*u)/r");
 		return (u*u)/r;
 	}
+	
+	public double pAusRundI (double i, double r) {
+		return (i*i)*r;
+	}
 
 }
