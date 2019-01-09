@@ -52,6 +52,9 @@ public class Calculator {
 	/* Hier die Methoden mit den Formlen hinzufügen
 	 * 
 	 */
-	
+	public double pAusUundI (double u, double i) {
+		System.out.println("u*i");
+		return u*i;
+	}
 
 }
