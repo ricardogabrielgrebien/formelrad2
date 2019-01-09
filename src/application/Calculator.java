@@ -57,7 +57,7 @@ public class Calculator {
 		return u*i;
 	}
 	
-public double pAusUundR (double u, double r) {	
+	public double pAusUundR (double u, double r) {	
 		System.out.println("(u*u)/r");
 		return (u*u)/r;
 	}
