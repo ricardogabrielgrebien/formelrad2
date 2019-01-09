@@ -96,4 +96,8 @@ public class Calculator {
 		return u/i;
 	}
 	
+	public double UAusRundI (double r, double i) {
+		System.out.println("r*i");
+		return r*i;
+	}
 }
