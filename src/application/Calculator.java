@@ -70,4 +70,9 @@ public class Calculator {
 		System.out.println("Sqrt(p/r)");
 		return Math.sqrt(p/r);
 	}
+	
+	public double iAusPundU (double p, double u) {
+		System.out.println("p/u");
+		return p/u;
+	}
 }
