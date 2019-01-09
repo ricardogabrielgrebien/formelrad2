@@ -75,4 +75,9 @@ public class Calculator {
 		System.out.println("p/u");
 		return p/u;
 	}
+	
+	public double iAusUundR (double u, double r) {
+		System.out.println("u/r");
+		return u/r;
+	}
 }
